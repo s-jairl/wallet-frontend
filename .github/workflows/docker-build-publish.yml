@@ -5,6 +5,7 @@ on:
     branches:
       - release/sirosid
       - release/sirosid/**
+      - test/**
     tags:
       - 'v*.*.**'
       - 'v*.*.**-sirosid.*'
